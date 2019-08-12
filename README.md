@@ -10,3 +10,5 @@ Following are the steps for Assignment.
 4.) Create a Pull Request with the base as master branch <br/>
 5.) In the pull request add me as the reviewer <br/>
 6.) Resolve any Merge Conflicts if they arise <br/>
+7.) Fork a public Github repository <br/>
+8.) Clone the repository on GitHub desktop <br/>
